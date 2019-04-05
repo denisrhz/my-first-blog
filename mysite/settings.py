@@ -25,7 +25,7 @@ SECRET_KEY = 'oap&^4@0$ct*=2k!hxzcr$79kb#v%qx&&unge(!zg1f_uqr98n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<denis>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'denisrhz.pythonanywhere.com']
 
 
 # Application definition
